@@ -63,7 +63,7 @@ MySQL
 SQL (Joins, CTEs, Subqueries, Window Functions)
 
 Canva (for project presentation PDF)
- https://raw.githubusercontent.com/[username]/[repo]/main/Zepto%20Delivery%20%26%20Customer%20Behavior%20Analysis%20%20MySQL%20(1).pdf
+ https://github.com/Rajnandini-0804/Zepto-Instant-Delivery-Performance-Customer-Behavior-Analysis-Customer-to-Delivery-Journey-/blob/main/Zepto%20Delivery%20%26%20Customer%20Behavior%20Analysis%20%20MySQL%20(1).pdf
 
 
 ✅ Outcome
